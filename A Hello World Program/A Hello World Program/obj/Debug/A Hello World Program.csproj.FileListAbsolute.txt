@@ -1,0 +1,6 @@
+c:\users\aman\documents\visual studio 2013\Projects\A Hello World Program\A Hello World Program\bin\Debug\A Hello World Program.exe.config
+c:\users\aman\documents\visual studio 2013\Projects\A Hello World Program\A Hello World Program\bin\Debug\A Hello World Program.exe
+c:\users\aman\documents\visual studio 2013\Projects\A Hello World Program\A Hello World Program\bin\Debug\A Hello World Program.pdb
+c:\users\aman\documents\visual studio 2013\Projects\A Hello World Program\A Hello World Program\obj\Debug\A Hello World Program.csprojResolveAssemblyReference.cache
+c:\users\aman\documents\visual studio 2013\Projects\A Hello World Program\A Hello World Program\obj\Debug\A Hello World Program.exe
+c:\users\aman\documents\visual studio 2013\Projects\A Hello World Program\A Hello World Program\obj\Debug\A Hello World Program.pdb
