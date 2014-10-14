@@ -1,0 +1,6 @@
+C:\Users\Aman\Documents\GitHub\learnCSharpDotNet\Reading and Writing to Console\Reading and Writing to Console\bin\Debug\Reading and Writing to Console.exe.config
+C:\Users\Aman\Documents\GitHub\learnCSharpDotNet\Reading and Writing to Console\Reading and Writing to Console\bin\Debug\Reading and Writing to Console.exe
+C:\Users\Aman\Documents\GitHub\learnCSharpDotNet\Reading and Writing to Console\Reading and Writing to Console\bin\Debug\Reading and Writing to Console.pdb
+C:\Users\Aman\Documents\GitHub\learnCSharpDotNet\Reading and Writing to Console\Reading and Writing to Console\obj\Debug\Reading and Writing to Console.csprojResolveAssemblyReference.cache
+C:\Users\Aman\Documents\GitHub\learnCSharpDotNet\Reading and Writing to Console\Reading and Writing to Console\obj\Debug\Reading and Writing to Console.exe
+C:\Users\Aman\Documents\GitHub\learnCSharpDotNet\Reading and Writing to Console\Reading and Writing to Console\obj\Debug\Reading and Writing to Console.pdb
